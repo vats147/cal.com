@@ -27,7 +27,7 @@
     "@calcom/emails": "*",
     "@calcom/features": "*",
     "@calcom/lib": "*",
-    "@calcom/prisma": "*",
+    "@calcom/prisma": "workspace:^",
     "@calcom/trpc": "*",
     "@sentry/nextjs": "^7.20.0",
     "bcryptjs": "^2.4.3",

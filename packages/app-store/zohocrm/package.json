@@ -5,7 +5,7 @@
   "main": "./index.ts",
   "dependencies": {
     "@calcom/lib": "*",
-    "@calcom/prisma": "*"
+    "@calcom/prisma": "workspace:^"
   },
   "devDependencies": {
     "@calcom/types": "*"

@@ -9,7 +9,7 @@
   "dependencies": {
     "@calcom/dayjs": "*",
     "@calcom/lib": "*",
-    "@calcom/prisma": "*",
+    "@calcom/prisma": "workspace:^",
     "@calcom/trpc": "*",
     "@calcom/ui": "*",
     "bcryptjs": "^2.4.3",

@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@calcom/lib": "*",
-    "@calcom/prisma": "*"
+    "@calcom/prisma": "workspace:^"
   },
   "devDependencies": {
     "@calcom/types": "*"

@@ -15,7 +15,7 @@
     "@calcom/emails": "*",
     "@calcom/features": "*",
     "@calcom/lib": "*",
-    "@calcom/prisma": "*",
+    "@calcom/prisma": "workspace:^",
     "@calcom/types": "*",
     "@stripe/react-stripe-js": "^1.10.0",
     "@stripe/stripe-js": "^1.35.0",
